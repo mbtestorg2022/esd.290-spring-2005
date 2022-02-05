@@ -26,15 +26,84 @@ Grading and Assignments
 
 There will be six assignments for this course. Most assignments are team based, with one being individual. Students should form teams that consist of 3 or 4 people, and must keep the same team throughout the semester. Students should send an email to the TA with the names of their team members.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignment 1: Auto-ID Technologies I (Team) | 5% |
-| Assignment 2: Auto-ID Technologies II (Team) | 5% |
-| Assignment 3: Auto-ID Technologies III (Team) | 5% |
-| Assignment 4: RFID Appliance Kit Project (Team) | 15% |
-| Assignment 5: Auto-ID Policy and Strategy (Individual) | 20% |
-| Assignment 6: Final Paper and Presentation (Team) | 30% |
-| Class Participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1: Auto-ID Technologies I (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: Auto-ID Technologies II (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3: Auto-ID Technologies III (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 4: RFID Appliance Kit Project (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 5: Auto-ID Policy and Strategy (Individual)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 6: Final Paper and Presentation (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
