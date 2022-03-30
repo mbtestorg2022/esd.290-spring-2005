@@ -7,6 +7,7 @@ description: This resource contains problems on setting up and testing the PC to
   the reader and the tag.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/8e936138ffb8eb53e2530e6caef1ebed_assn4_6.pdf
 file_type: application/pdf
+parent_uid: 92e6f619-9440-f9fd-de1f-2affb51ec269
 resourcetype: Document
 title: assn4_6.pdf
 uid: 8e936138-ffb8-eb53-e253-0e6caef1ebed

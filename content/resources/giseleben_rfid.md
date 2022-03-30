@@ -4,6 +4,7 @@ description: This resource contains information on asset tracking, patent growth
   CMB project.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/cb197fb8d990e16cdd8a7bc08af87c38_giseleben_rfid.pdf
 file_type: application/pdf
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: giseleben_rfid.pdf
 uid: cb197fb8-d990-e16c-dd8a-7bc08af87c38

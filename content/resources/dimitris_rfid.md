@@ -4,6 +4,7 @@ description: This resource contains information on closed-loop PLM, enabling tec
   product identification technologies, PLM modeling, demonstrators.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/339e0898acb4ff909927a57082bd7fd7_dimitris_rfid.pdf
 file_type: application/pdf
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: dimitris_rfid.pdf
 uid: 339e0898-acb4-ff90-9927-a57082bd7fd7

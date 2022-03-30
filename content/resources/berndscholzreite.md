@@ -6,6 +6,7 @@ description: This resource contains information on paradigm shift ? conventional
   cycle.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/b42f06266f8b308755c0631ba51b1a62_berndscholzreite.pdf
 file_type: application/pdf
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: berndscholzreite.pdf
 uid: b42f0626-6f8b-3087-55c0-631ba51b1a62

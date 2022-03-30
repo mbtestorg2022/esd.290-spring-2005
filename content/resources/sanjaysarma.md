@@ -4,6 +4,7 @@ description: This resource contains information on the history, opportunities in
   and pharma, protocols, security and supply chain plan.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/2c3787a703110c4eecafede596e75ba1_sanjaysarma.pdf
 file_type: application/pdf
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: sanjaysarma.pdf
 uid: 2c3787a7-0311-0c4e-ecaf-ede596e75ba1

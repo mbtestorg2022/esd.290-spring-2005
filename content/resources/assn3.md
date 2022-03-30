@@ -4,6 +4,7 @@ description: Ths resource contains problem on writing a reply to the following e
   from a concerned trade body executive.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/451caa8848051b4c2c88c873ec68e5af_assn3.pdf
 file_type: application/pdf
+parent_uid: 92e6f619-9440-f9fd-de1f-2affb51ec269
 resourcetype: Document
 title: assn3.pdf
 uid: 451caa88-4805-1b4c-2c88-c873ec68e5af

@@ -6,6 +6,7 @@ description: This resource contains information on motivation for standardized s
   topics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/7b9cd42fc2d1cce6d3c6a11e1fe08de8_manfred_aig_rfid.pdf
 file_type: application/pdf
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: manfred_aig_rfid.pdf
 uid: 7b9cd42f-c2d1-cce6-d3c6-a11e1fe08de8

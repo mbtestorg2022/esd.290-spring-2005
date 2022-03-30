@@ -4,6 +4,7 @@ description: This resource contains information on need for secure authenticatio
   technologies, research questions and anticipated challenges and preliminary results.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/77b891bce9ff9ae3dc8daccf2f5a80cb_elgarfleisch.pdf
 file_type: application/pdf
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: elgarfleisch.pdf
 uid: 77b891bc-e9ff-9ae3-dc8d-accf2f5a80cb
